@@ -1,0 +1,63 @@
+h1 {
+  color: #894f1b;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  color: #c87374;
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+  color: #894f1b;
+}
+
+h4 {
+  text-align: left;
+  color: #894f1b;
+}
+
+p {
+  color: #444444;
+  text-align: left;
+  width: 75%;
+}
+
+body {
+  background-color: #fff;
+  font-family: fantasy;
+  font-size: 20px;
+
+}
+
+img {
+  display: block;
+  margin: 25 auto;
+
+}
+
+.important {
+  color: #c87374;
+}
+
+.best {
+  font-size: 26px;
+  color: #c87374;
+}
+
+.thanks {
+  color: #894f1b;
+}
+
+p.about {
+  color: #894f1b;
+}
+
+ul.number {
+  color: #c87374;
+  font-family: arial;
+  font-style: italic;
+
+}
