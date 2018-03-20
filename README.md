@@ -1,18 +1,18 @@
-# _Anne's CUPCAKES_
+# _ANNE's CUPCAKES_
 
 _This Webpage is about a Cupcake-shop_.<br/>
-version: 20/03/2018_<br/>
+_version: 20/03/2018_<br/>
 
-By_**Josh Hortt**_
+_By **Josh Hortt**_
 
 ## Description
 
 _The purpose of this Webpage is selling online home-made Cupcakes_,<br/>
-_that and are super tasty_.
+_that are super tasty_.
 
 ## Setup/Installation Requirements
 
-_Contribute to cupcake-shop by cloning this repository_
+_Contribute to cupcake-shop by cloning this repository_.
 
 ## Contribute
 
@@ -21,12 +21,12 @@ _**Source**: github.com/Joshhortt/cupcake-shop_
 
 ## Support and Contact Details
 
-_If you have any issues or have questions, ideas, concerns please contact:_ joshhortt@yahoo.com
+_If you have any issues or have questions, ideas, concerns, please contact:_ joshhortt@yahoo.com
 
 ## Technologies Used
 
 _**HTML** - Hyper Text Markup Language_<br/>
-_**CSS** - Cascading Style Sheets}_
+_**CSS** - Cascading Style Sheets_
 
 ## License
 
