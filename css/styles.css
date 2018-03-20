@@ -29,13 +29,11 @@ body {
   background-color: #fff;
   font-family: fantasy;
   font-size: 20px;
-
 }
 
 img {
   display: block;
   margin: 25 auto;
-
 }
 
 .important {
@@ -51,13 +49,13 @@ img {
   color: #894f1b;
 }
 
-p.about {
+p.flashy {
   color: #894f1b;
+  font-size: 16px;
 }
 
 ul.number {
   color: #c87374;
   font-family: arial;
   font-style: italic;
-
 }
